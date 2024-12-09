@@ -77,7 +77,15 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/anhtu193/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
+  <a href="https://www.facebook.com/latenight.tu" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
+            width="40" /></a>
+    <a href="https://www.linkedin.com/in/anhtu193/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
+    <a href="https://www.instagram.com/_latenight.tu/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
+            width="40" /></a>
 </p>
 
 
