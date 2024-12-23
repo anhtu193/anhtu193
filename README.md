@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 👨‍💻 I'm a student of **University of Information Technology - VNUHCM**, majoring in **Software Engineering**.
 
-- 🔭 I’m a **front-end developer** and really into **React, Next.js**.
+- 🔭 I’m a **Front-end developer** and really into **React, Next.js**.
 
 - 🌱 I’m currently learning **everything to improve my skills**.
 
