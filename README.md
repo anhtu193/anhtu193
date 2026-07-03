@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, Ly Thanh Tu Anh's here!</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, Tu Anh's here!</h1></summary>
   </ul>
 </div>
 
@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 👨‍💻 I'm a student of **University of Information Technology - VNUHCM**, majoring in **Software Engineering**.
+- 👨‍💻 I'm a graduate of **University of Information Technology - VNUHCM**, majoring in **Software Engineering**.
 
 - 🔭 I’m a **Front-end developer** and really into **React, Next.js**.
 
